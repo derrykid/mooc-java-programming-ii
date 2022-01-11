@@ -1,0 +1,6 @@
+quick:kaja
+Yahoo:means happy
+cartoon:minions
+means happy:Yahoo
+minions:cartoon
+kaja:quick
